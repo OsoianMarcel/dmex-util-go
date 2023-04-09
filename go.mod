@@ -1,4 +1,4 @@
-module github.com/OsoianMarcel/dmx-sign
+module github.com/OsoianMarcel/dmex-util-go
 
 go 1.19
 

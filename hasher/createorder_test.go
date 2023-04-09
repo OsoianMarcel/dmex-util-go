@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/OsoianMarcel/dmx-sign/hasher"
+	"github.com/OsoianMarcel/dmex-util-go/hasher"
 	"github.com/ethereum/go-ethereum/common"
 )
 

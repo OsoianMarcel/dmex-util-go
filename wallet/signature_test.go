@@ -3,7 +3,7 @@ package wallet_test
 import (
 	"testing"
 
-	"github.com/OsoianMarcel/dmx-sign/wallet"
+	"github.com/OsoianMarcel/dmex-util-go/wallet"
 	"github.com/ethereum/go-ethereum/common"
 )
 
